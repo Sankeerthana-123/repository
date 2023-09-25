@@ -1,6 +1,6 @@
 public class one
 {
 public static void main(string[] args)
-  system.out.println(one);
+  system.out.println("wallpapers);
 }
 }
